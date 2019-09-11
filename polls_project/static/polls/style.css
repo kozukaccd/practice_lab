@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body{
+    background: white url("images/python.png") right bottom;
+    background-size: cover;
+}
